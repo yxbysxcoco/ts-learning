@@ -27,9 +27,9 @@ module.exports = {
 	plugins: [
 		new CleanWebpackPlugin({
 			cleanOnceBeforeBuildPatterns: ['./dist']
-		}),
+		}), //打包的时候清除这个目录
 		new HtmlWebpackPlugin({
 			template: './src/template/index.html'
-		})
+		}) //指定打包的模版文件
 	]
 }
