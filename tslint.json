@@ -8,7 +8,11 @@
         "quotemark": [false],
         "trailing-comma": [false],
         "interface-name": [true, "never-prefix"],
-        "semicolon": [false]
+        "semicolon": [false],
+        "max-classes-per-file": [false],
+        "no-console": [false],
+        "no-namespace": [false],
+        "no-empty": [false]
     },
     "rulesDirectory": []
 }

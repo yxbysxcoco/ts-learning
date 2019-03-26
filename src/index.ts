@@ -1,1 +1,1 @@
-import "./example/interface";
+import "./example/file";
