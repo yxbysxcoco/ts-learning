@@ -1,1 +1,1 @@
-import "./example/file";
+import arrMap from "test-arr-map";

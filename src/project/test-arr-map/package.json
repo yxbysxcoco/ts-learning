@@ -1,0 +1,15 @@
+{
+  "name": "test-arr-map",
+  "version": "1.0.0",
+  "description": "arr-map function",
+  "main": "./dist/test-arr-map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.4.1"
+  }
+}
