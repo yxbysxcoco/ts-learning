@@ -33,6 +33,7 @@
     "webpack-dev-server": "^3.2.1"
   },
   "dependencies": {
+    "chocolate-beans": "0.0.3",
     "moment": "^2.24.0",
     "test-arr-map": "^1.0.0",
     "typescript": "^3.3.3333"
